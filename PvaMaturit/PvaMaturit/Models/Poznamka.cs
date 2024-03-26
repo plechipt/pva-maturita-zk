@@ -17,5 +17,7 @@ namespace Poznamky.Models
 
         [ForeignKey("Uzivatel")]
         public string UzivatelId { get; set; }
+        public Uzivatel? Uzivatel { get; set; }
+
     }
 }

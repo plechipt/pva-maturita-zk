@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PvaMaturit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06261c4a52bf50d4a7833b079a44957525acf44f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09d4f5719ac37c843ab5d9fe6e576fa9a95fca22")]
 [assembly: System.Reflection.AssemblyProductAttribute("PvaMaturit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PvaMaturit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
